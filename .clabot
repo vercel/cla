@@ -1,6 +1,0 @@
-{
-  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please submit the signed CLA to cla@vercel.com. For more information, see https://github.com/vercel/cla.",
-  "label": "cla-signed",
-  "recheckComment": "On it!",
-  "contributors": []
-}
